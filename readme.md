@@ -11,7 +11,6 @@ It is a demo project for demonstrating what can be generated with [QuickAdminPan
 - Run __composer install__
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
-- Run __php artisan passport:install__ (for API authentication)
 - That's it: launch the main URL and login with default credentials __admin@admin.com__ - __password__
 
 ## License
