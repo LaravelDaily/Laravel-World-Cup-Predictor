@@ -2,7 +2,7 @@ Demo Laravel project to predict any sports tournament (in this case FIFA World C
 
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 
-![Laravel World Cup Predictor screenshot](http://webcoderpro.com/world-cup-predictor-demo.png)
+![Laravel World Cup Predictor screenshot](https://laraveldaily.com/wp-content/uploads/2018/11/world-cup-predictor-demo.png)
 
 ## How to use
 
@@ -25,3 +25,4 @@ Basically, feel free to use and re-use any way you want.
 - Follow our [Twitter](https://twitter.com/dailylaravel) and [Blog](http://laraveldaily.com/blog)
 - Subscribe to our [newsletter with 20+ Laravel links every Thursday](http://laraveldaily.com/weekly-laravel-newsletter/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
